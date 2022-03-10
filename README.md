@@ -2,7 +2,7 @@
 - 👀 I’m interested in Designing and FrontEnd
 - 🌱 I’m currently learning JavaScript and Angular
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me Gnanamaijanu@gmail.com
 
 <!---
 Kgnanamai/Kgnanamai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
